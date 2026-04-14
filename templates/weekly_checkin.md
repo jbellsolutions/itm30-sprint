@@ -1,38 +1,38 @@
-# Weekly Sprint Check-In — ITM30
-**Founder:** [NAME] | **Phase:** [1/2/3/4] | **Date:**
+# Weekly Sprint Check-In
+
+**Client:**
+**Week:**
+**Date:**
 
 ---
 
-## This Week's Wins
--
--
--
+## THIS WEEK
 
-## Deliverables Sent This Week
-- [ ] [Deliverable + link]
-- [ ] [Deliverable + link]
+**What got done:**
 
-## GTM Numbers (Phase 3–4)
-- Cold email sent: | Replies: | Meetings booked:
-- LinkedIn connections: | Conversations started:
-- Content published:
+**What didn't get done (and why):**
 
-## Founding Circle Update
-- Members active:
-- Expert Series recorded:
-- Testimonials in progress:
-
-## Blockers / Open Items
--
--
-
-## Founder Action Items (before next week)
-- [ ]
-- [ ]
-
-## Next Week Preview
--
--
+**Numbers:**
+- Founding Circle members: 
+- Reactivation emails sent:
+- Replies received:
+- Calls booked:
+- Revenue from new offer:
 
 ---
-*AI Integraterz · justin@aiintegraterz.com*
+
+## NEXT WEEK
+
+**Priority 1:**
+**Priority 2:**
+**Priority 3:**
+
+**Blockers to resolve:**
+
+---
+
+## STATUS
+
+[ ] On track  [ ] Behind  [ ] Ahead
+
+**Notes:**

@@ -1,67 +1,53 @@
-# AI Integraterz — Idea to Market 30-Day Sprint
-### Delivery System & Founder Game Plan Builder
+# AI Integraterz — Market Expansion 30-Day Sprint
 
-**Drop this repo into any AI chat to instantly build a custom 30-day go-to-market plan.**
-
----
+This repo powers the AI delivery system for the **ITM30 Market Expansion Sprint**. Load `CLAUDE.md` into a Claude conversation to activate the sprint delivery engine.
 
 ## What This Is
 
-This is the complete delivery framework for the **AI Integraterz Idea to Market 30-Day Sprint**. It contains:
+The ITM30 Sprint helps business owners build a **new revenue channel in 30 days** from what they've already created. Unlike a "build from scratch" program, this is designed for people who already have:
 
-- An interactive intake system that collects everything needed to build a custom plan
-- The full 4-phase delivery framework (Days 1–7 / 8–14 / 15–21 / 22–30)
-- Templates for every deliverable — founding circle outreach, GTM machine config, AI VA onboarding, Expert Series, handoff docs
-- The founding circle mechanics and alpha outreach playbook
+- An existing business with revenue
+- An audience, email list, or CRM database
+- Expertise or IP they haven't fully monetized
+- A market position that could be expanded
 
----
+## The Three Plays
 
-## How to Use It
+**Play 01 — Database Reactivation**
+Reactivate cold lists with a new free tool, gateway offer, or lower-priced product.
 
-**To start a new client sprint:**
-1. Drop this entire repo into a new AI chat (Claude, GPT, etc.)
-2. The system automatically runs the Genius Tap intake interview
-3. Answer the questions about the founder's idea, offer, and audience
-4. The AI builds a complete, custom 30-day plan
+**Play 02 — Market Capitalization**
+Launch an adjacent offer that captures the segment of your audience not buying your core product.
 
-**To reference the delivery framework:**
-- See `/delivery/sprint_framework.md` for the full methodology
-- See `/delivery/phase_by_phase.md` for day-by-day checkpoints
-- See `/delivery/founding_circle_playbook.md` for alpha circle mechanics
+**Play 03 — Relaunch + Rebrand**
+Take a working offer into a new channel, niche, or market with fresh positioning.
 
----
+## How to Use
 
-## The Offer
+1. Load this repo into a Claude conversation
+2. Claude reads `CLAUDE.md` and activates the sprint delivery engine
+3. Claude runs the intake interview (Section by Section)
+4. Claude identifies the highest-leverage play
+5. Claude generates your custom 30-day plan
 
-**One sprint. Full GTM machine. You own everything.**
+## Repo Structure
 
-| | Detail |
-|---|---|
-| **Sprint Total** | $5,000 ($3,000 fee + $2,000 tools/ad budget paid directly) |
-| **Prototype** | Live by Day 7 — or full refund |
-| **Founding Circle** | Alpha circle built and onboarded by Day 14 |
-| **GTM Machine** | Cold email + LinkedIn + content — live by Day 30 |
-| **AI VA** | Placed, trained, certified — you pay directly (~$10/hr) |
-| **You own** | Everything. Forever. |
-
-**After the sprint:**
-- $500/mo — Integrator Support
-- $1,000/mo — Managed Service (monthly call included)
-- $1,000/mo + 20% — Full Partnership
-
----
-
-## The GTM Machine (Live by Day 30)
-
-| System | Output |
-|---|---|
-| Cold Email (16-agent) | 25–50 meetings/month, books directly to Calendly |
-| LinkedIn Autopilot (37-agent) | 10,000+ connections/month, zero manual work |
-| Expert Series + Content (18 agents) | 52+ pieces/month from 1 interview |
-
----
-
-## Contact
-
-**AI Integraterz** · aiintegraterz.com
-justin@aiintegraterz.com · justin@usingaitoscale.com
+```
+CLAUDE.md                    ← AI delivery instructions
+README.md                    ← You are here
+intake/
+  intake_questions.md        ← 45-question business expansion intake
+  intake_template.md         ← Fill-in form version
+delivery/
+  phase_by_phase.md          ← 4-phase delivery breakdown
+  founding_circle_playbook.md← Alpha Founding Circle mechanics
+  gtm_machine_specs.md       ← Three-Engine GTM system specs
+docs/
+  offer_overview.md          ← What the ITM30 Sprint is
+templates/
+  onboarding_email.md        ← Client welcome
+  weekly_checkin.md          ← Weekly update format
+  handoff_doc.md             ← Sprint close template
+  founding_circle_invite.md  ← Alpha group recruitment
+  genius_tap_agenda.md       ← Expert interview format
+```

@@ -1,59 +1,72 @@
-# Genius Tap Call Agenda — Day 1
-**Duration:** 60–90 minutes
-**Purpose:** Full brain dump. Extract everything we need to build the offer, niche, prototype spec, and founding circle strategy.
+# Expert Series — Genius Tap Interview Agenda
+
+**Guest Name:**
+**Interview Date:**
+**Platform:** [ ] Zoom  [ ] LinkedIn Live  [ ] Podcast  [ ] Video
+**Estimated Length:** 30–45 minutes
 
 ---
 
-## Before the Call
-- [ ] Intake form completed by founder
-- [ ] Founder workspace set up
-- [ ] AI Integraterz has reviewed intake answers
+## PRE-INTERVIEW (5 min)
+
+- Confirm recording consent
+- Quick briefing on format and clip usage
+- Any topics to avoid?
+- Confirm guest's preferred name and title for intro
 
 ---
 
-## Agenda
+## OPENING (2–3 min)
 
-### 0:00–0:10 — Welcome + Context Setting
-- What this call is and why it works
-- Ground rules: no wrong answers, the more specific the better
-- What we're building by end of call: offer statement + prototype spec + founding circle list
-
-### 0:10–0:30 — The Idea Deep Dive
-- Tell me about the idea — what is it, who is it for?
-- What's the problem you're solving? Who has it badly?
-- What makes your approach different from anything out there?
-- What's the specific mechanism — the thing only you do?
-- Walk me through the dream outcome for a client who goes through this offer
-
-### 0:30–0:50 — The Founder Story
-- What's your background and how does it connect to this?
-- What's the "why you" — what have you actually done that makes you the right person?
-- What's the story you'll tell publicly about why you built this?
-- What other offers or businesses have you built before?
-
-### 0:50–1:05 — Audience + Niche
-- Who exactly is the ideal client? Not the broad category — the specific person
-- What's their #1 pain right now? What keeps them up at night?
-- What have they tried before that hasn't worked?
-- Where do they hang out, who do they follow, what events do they go to?
-
-### 1:05–1:20 — Prototype + Founding Circle
-- What's the simplest version of this that proves the concept by Day 7?
-- What does "working" look like — what should it be able to do?
-- Who are the 10–20 people in your network that fit the founding circle profile?
-- How do you want to invite them — email, DM, call?
-
-### 1:20–1:30 — Lock It In
-- Read back: offer statement, prototype spec, founding circle list
-- Founder confirms or adjusts
-- Sprint start date and logistics confirmed
+> "Welcome to [Show Name]. I'm [Host Name]. Today I'm joined by [Guest Name], who [one-sentence credibility statement]. We're going to talk about [topic]. Let's dive in."
 
 ---
 
-## After the Call
-- [ ] Intake template fully completed
-- [ ] Offer + niche statement drafted
-- [ ] Prototype spec locked
-- [ ] Founding circle list started (10–20 names)
-- [ ] Welcome email sent if not already done
-- [ ] VA search brief written
+## SECTION 1: The Hook (5–7 min)
+
+1. "What's the one thing most people in [niche] get completely wrong about [topic]?"
+2. "What changed for you that made you see this differently?"
+3. "Why does this matter right now — what's the urgency?"
+
+---
+
+## SECTION 2: The Framework (10–12 min)
+
+4. "Walk me through how you think about [topic]. What's your framework?"
+5. "What's the first thing someone should do when they're starting?"
+6. "What's the biggest mistake you see at [stage/level]?"
+7. "Can you give us a specific example from a client or your own experience?"
+
+---
+
+## SECTION 3: The Results (5–7 min)
+
+8. "What does success actually look like? What are the results people get?"
+9. "What's a before-and-after transformation you've witnessed?"
+10. "What's the fastest win someone can get from applying this?"
+
+---
+
+## SECTION 4: The Edge (5 min)
+
+11. "What's the contrarian take — what do you believe that most experts disagree with?"
+12. "What's coming in [niche] that most people aren't paying attention to yet?"
+
+---
+
+## CLOSING (3 min)
+
+13. "Where can people find you / follow your work?"
+14. "Any final advice for someone getting started?"
+
+> "Thank you so much for being here. This was packed. For everyone listening — [recap of key takeaway]. Links in the show notes."
+
+---
+
+## POST-INTERVIEW CHECKLIST
+
+- [ ] Send thank-you email within 24 hours
+- [ ] Share clip with guest for their social media
+- [ ] Tag guest in LinkedIn post when episode goes live
+- [ ] Add guest to founding circle outreach (if applicable)
+- [ ] Log interview in content calendar

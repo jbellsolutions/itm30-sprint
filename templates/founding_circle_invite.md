@@ -1,99 +1,109 @@
-# Founding Circle Invite Templates
+# Alpha Founding Circle — Invite Templates
 
-These are sent personally by the founder — 1-to-1, friend-to-friend. Not a mass email.
+## VERSION A: Warm Contact (Personal Email)
 
----
+**Subject:** I want you to be one of the first
 
-## Template 1 — Email (Close Contact)
+Hey [First Name],
 
-**Subject options:**
-- "Wanted you to see this first"
-- "A favor to ask — and something free in return"
-- "I wanted you to know about this before anyone else"
+I'm building something new and I want you to be one of the first people to get access.
 
-**Body:**
-> Hey [First Name],
->
-> I'm building something and I wanted you to be one of the first people to know about it.
->
-> [1–2 sentences about your background and what led to this — real, personal, not a pitch]
->
-> It's called [OFFER NAME]. The short version: [one sentence — what it does and who it's for]. [One sentence — a real result you've already seen or the specific problem it solves].
->
-> I'm opening it up to a small group before we go public. Not a beta test — a founding circle. [What they get: lifetime access / founding price / etc.], no charge [or: at [price]].
->
-> What I'm asking for in return is simple: use it, tell me what works and what doesn't, and be honest with me. That's it. [Optional: and I'd love to have you on the podcast — 20 minutes, your story, your authority.]
->
-> If you're interested, here's the link: [ALPHA PAGE LINK]
->
-> If it's not for you, no worries at all — I still owe you a call either way.
->
-> — [Your name]
+[One sentence: what it is and who it's for.]
+
+Right now I'm putting together a small group of founding members — people I know and trust — to get early access, give feedback, and shape what this becomes.
+
+Founders get [benefit 1] and [benefit 2]. The only thing I ask in return is honest feedback and a quick testimonial if it delivers.
+
+I'm keeping this group small — [X] spots total. Interested?
+
+Just reply with "I'm in" and I'll send you the details.
+
+[Your name]
 
 ---
 
-## Template 2 — LinkedIn DM (Warmer relationship)
+## VERSION B: Email List (Reactivation Play)
 
-> Hey [First Name] — I'm launching something and I thought of you specifically.
->
-> [One sentence: what you're building and why it matters to them]
->
-> I'm putting together a small founding circle — 20 people, early access, free [or at [price]], and real input on where we take this.
->
-> Would you be open to a quick 10-minute call to see if it's a fit? No pitch — just want to run it by you.
+**Subject:** I haven't heard from you in a while
 
----
+Hey [First Name],
 
-## Template 3 — LinkedIn Announcement Post
+It's been a while. I've been building something new and I wanted you to be one of the first to know.
 
-*Posted publicly after first 5 members are confirmed. Drives inbound interest while maintaining exclusivity.*
+[One sentence hook: what problem it solves.]
 
-**Structure to follow — customize the story:**
+I'm launching with a small Alpha Founding Circle — [X] people who get early access at [founding price or free] before this goes public.
 
-> [Open with a tension from your past — something real, specific, a moment that taught you something]
->
-> [Connect that moment to the problem you're now solving for others]
->
-> [Bridge to what you're building and why now]
->
-> That's why I built [OFFER NAME].
->
-> [One clear sentence: what it does, who it's for, what makes it different]
->
-> [A real result, even early: "I tested it with [X person] and [specific result]." or "I built it first for myself and [result]."]
->
-> Today I'm opening [X] seats to the Founding Circle.
-> Not a waitlist. Not a beta signup. A personal invitation to the people I trust.
->
-> Here's the deal:
-> ✔ [What they get — free access / founding price / etc.]
-> ✔ Direct input on what gets built
-> ✔ First to see everything
-> ✔ Founding partner status — you'll be part of the story we tell the world
->
-> [X] people. [Describe who they should be in one line — specific, not generic]
->
-> If that's you — or someone you know — comment below or send me a DM.
->
-> [Closing line that connects back to the opening story]
->
-> #[OfferName] #FoundingCircle #[RelevantIndustry] #AI
+Here's what founding members get:
+- [Benefit 1]
+- [Benefit 2]
+- [Benefit 3]
+
+Spots are limited and I'm filling them in the next [X] days.
+
+[CTA: Click here / Reply / Book a call]
+
+[Your name]
 
 ---
 
-## Expert Series Invite Template
+## VERSION C: LinkedIn DM (Network Outreach)
 
-*Sent to founding circle members after they're onboarded*
+Hey [Name] — I'm building [one sentence description] and I'm looking for [X] founding members to get early access and help shape it.
 
-> Hey [First Name],
->
-> As part of your founding circle membership, I'd love to have you on the [OFFER NAME] Expert Series.
->
-> It's a 20–30 minute conversation — just you and me. We talk about your background, your expertise, and the specific knowledge you've built over your career. We publish it as part of our content series and it builds your profile in front of our audience.
->
-> No prep needed. No pitch. Just a real conversation about what you know.
->
-> [CALENDLY LINK] — grab a time that works for you.
->
-> Looking forward to it.
-> — [Your name]
+You'd be a great fit because [specific reason].
+
+No pitch — just want to know if you'd be open to learning more?
+
+---
+
+## VERSION D: Social Post (Open Invitation)
+
+I'm building [what it is] and I'm looking for [X] founding members.
+
+Founders get:
+✓ [Benefit 1]
+✓ [Benefit 2]
+✓ [Benefit 3]
+
+In exchange, I ask for feedback and a testimonial if it delivers.
+
+[Number] spots. First come, first served.
+
+Drop a comment or DM me "founding" if you're interested.
+
+---
+
+## FOLLOW-UP: Non-Responder (Day 3)
+
+**Subject:** Still a few founding spots left
+
+Hey [First Name],
+
+Sent this a few days ago — just wanted to make sure it didn't get buried.
+
+Still [X] founding spots available for [offer name].
+
+[One sentence reminder of what they get.]
+
+Want in? Just reply and I'll send you the details.
+
+[Your name]
+
+---
+
+## CLOSE: Last Call (Day 5–7)
+
+**Subject:** Closing the founding circle [tomorrow/Friday]
+
+Hey [First Name],
+
+Last call — I'm closing the Alpha Founding Circle [tomorrow / end of week].
+
+[X] spots have been claimed. [Y] left.
+
+After this, [offer name] goes to the waitlist and the founding rate goes away.
+
+[CTA]
+
+[Your name]
